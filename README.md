@@ -1,0 +1,1 @@
+# Practice project used for learning topics from Darren Deloach's course on Udemy, Real World ASP.NET Web Api Services for .NET Framework https://www.udemy.com/course/real-world-aspnet-web-api-services-for-net-framework
